@@ -34,7 +34,7 @@ The e-commerce website has the following pages and the order of flow is also the
 2. You need to put minimum 8 digit password with 1 special character . And also need to put same password in the login page.
 
 ## Home page -
-
+  ![Screenshot (1075)](file:///C:/Users/Vishal%20Mandloi/Pictures/Screenshots/Screenshot%20(1075).png)
 1. This page as the name suggests has the homepage functionality. This is the landing page, Men's part, Women's part, and Kids part can be accessed from here. 
 
 2. Cart page is also accessible from here, to view your cart. To add the item to cart you will have to go to specific category page or you can add from homepage also.
