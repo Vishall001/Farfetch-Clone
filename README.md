@@ -122,6 +122,7 @@ You will be redirected to the sneakers page.
 3. Clicking on checkout will take you to Checkout page.
 
 ## Checkout page -
+![Screenshot (1081)](https://user-images.githubusercontent.com/101392029/193526426-d6ba7b21-3bd6-4a1a-a3cb-5656ddcaa414.png)
 
 1. In this page you will find input fields for address for delivery.
 
@@ -134,6 +135,7 @@ You will be redirected to the sneakers page.
 5. After filling that form . You can go to payment page.
 
 ## Payment page - 
+![Screenshot (1082)](https://user-images.githubusercontent.com/101392029/193526430-975035ec-0678-4908-8e40-7e71b2a1de53.png)
 
 1. Payment page is like the final payment gateway to add the card details like CVV number, Name,  Card expiry date etc.
 
