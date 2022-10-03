@@ -29,12 +29,14 @@ This project is deployed on netlify here - [Farfetch Clone](https://peaceful-str
 The e-commerce website has the following pages and the order of flow is also the same.
 
 ## Login and Signup -
+![Screenshot (1077)](https://user-images.githubusercontent.com/101392029/193525631-b990f570-19c6-4ef4-82b9-78603f9e6a0a.png)
 
 1. This page as the name suggests has the login and signup functionality, the login and signup data are stored in the local storage and used for verification of the user.
 2. You need to put minimum 8 digit password with 1 special character . And also need to put same password in the login page.
 
 ## Home page -
-  ![Screenshot (1075)](file:///C:/Users/Vishal%20Mandloi/Pictures/Screenshots/Screenshot%20(1075).png)
+  ![Screenshot (1075)](https://user-images.githubusercontent.com/101392029/193525572-ad8f7781-e835-45fe-b091-b67666c62eaf.png)
+
 1. This page as the name suggests has the homepage functionality. This is the landing page, Men's part, Women's part, and Kids part can be accessed from here. 
 
 2. Cart page is also accessible from here, to view your cart. To add the item to cart you will have to go to specific category page or you can add from homepage also.
@@ -79,6 +81,7 @@ You will be redirected to the sneakers page.
 7. After clicking on particular product you will be redirect to its product page.
 
 ## Product Page - 
+![Screenshot (1078)](https://user-images.githubusercontent.com/101392029/193525702-3af9d2cf-240d-43f7-a1fd-07cfbd846921.png)
 
 1. This page gets the data about that specific product from the category pages and displays it in detail here. 
 
@@ -97,6 +100,7 @@ You will be redirected to the sneakers page.
 7. On clicking on heart of the navbar you will be redirected to the Wishlist page of the website.
 
 ## Wishlist -
+![Screenshot (1080)](https://user-images.githubusercontent.com/101392029/193525716-a83f0b0b-3a0d-48e8-9b77-0fcf97ab713e.png)
 
 1. In this webpage. You will get items which is into the Wishlist. You will find details for particular item there. You can also change the size for products.
 
@@ -109,6 +113,7 @@ You will be redirected to the sneakers page.
 5. By clicking on bag button you will be redirected to the bag webpage.
 
 ## Bag / Cart Page - 
+![Screenshot (1079)](https://user-images.githubusercontent.com/101392029/193525732-6afc4610-f5d9-42b5-9029-ece77eaab58f.png)
 
 1. Here all the products that you have bought will be displayed with the info like price and quantity.
 
